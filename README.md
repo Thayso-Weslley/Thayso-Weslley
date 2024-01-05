@@ -1,7 +1,7 @@
-# 👋 Hi, Eu sou Thayso Weslley
+# 👋 Oi, Eu sou Thayso Weslley
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thayso-guedes-728202234/)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/thayso_weslley)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thayso-guedes-728202234/)
 <a href="mailto:thayso.weslley@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
