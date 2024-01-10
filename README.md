@@ -8,7 +8,7 @@
 [![Instagem](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thayso.weslley/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7xvc9x)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayso-weslley&show_icons=true&theme=radical)
+![thayso's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayso-weslley&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayso-weslley&layout=compact)
 
 ## Tecnologias do meu dia
