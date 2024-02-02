@@ -25,3 +25,5 @@
 )
 
 O aprender me move, assim como a tecnologia move o mundo.
+
+![Snake animation](https://github.com/Thayso-Weslley/Thayso-Weslley/blob/output/github-contribution-grid-snake.svg)
