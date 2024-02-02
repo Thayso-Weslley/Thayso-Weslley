@@ -26,6 +26,6 @@
 
 O aprender me move, assim como a tecnologia move o mundo.
 
-![snake gif](https://github.com/Thayso-Weslley/Thayso-Weslley/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Thayso-Weslley/Thayso-Weslley/blob/output/github-contribution-grid-snake.svg)
 
-["![readme](https://github-readme-stats.vercel.app/api/pin?username=Thayso-Weslley&repo=Thayso-Weslley&theme=react)](https://github.com/Thayso-Weslley/Thayso-Weslley)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=Thayso-Weslley&repo=Thayso-Weslley&theme=react)](https://github.com/Thayso-Weslley/Thayso-Weslley)
