@@ -8,8 +8,8 @@
 [![Instagem](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thayso.Weslley/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7xvc9x)
 
-![Thayso'W GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayso-Weslley&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayso-Weslley&layout=compact)
+![Thayso'W GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayso-Weslley&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayso-Weslley&layout=compact&theme=dark)
 
 ## Tecnologias do meu dia
 
@@ -25,7 +25,3 @@
 )
 
 O aprender me move, assim como a tecnologia move o mundo.
-
-![Snake Animation](https://github.com/Thayso-Weslley/Thayso-Weslley/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=Thayso-Weslley&repo=Thayso-Weslley&theme=react)](https://github.com/Thayso-Weslley/Thayso-Weslley)
