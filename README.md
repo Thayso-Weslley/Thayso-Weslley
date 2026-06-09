@@ -9,6 +9,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991488162)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Thayso-Weslley&theme=dracula)
+![As Minhas Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thayso-Weslley&layout=compact&theme=dracula&hide=html,css)
 
 ## Tecnologias do meu dia
 
